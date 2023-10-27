@@ -1,0 +1,92 @@
+{
+  "project_info": {
+    "project_number": "971170347801",
+    "project_id": "homeservices-32da6",
+    "storage_bucket": "homeservices-32da6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971170347801:android:aed399d6bcc36bb30aa388",
+        "android_client_info": {
+          "package_name": "com.smartersvision.home_services"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971170347801-b2lrgb19qrgraht0cjbchcsmqrd7sgcd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartersvision.home_services",
+            "certificate_hash": "fef499874e961fe26f3e14657ae44b04c16f8e6b"
+          }
+        },
+        {
+          "client_id": "971170347801-m73d6r2i36cq9shrpb3crpdn5gp4c8sf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartersvision.home_services",
+            "certificate_hash": "04072b4ed5107e3e37416266a8f193560db4f5c1"
+          }
+        },
+        {
+          "client_id": "971170347801-lvgq2u833fsr9qsolfj0l2e1spog8ghf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVxAEceUWMTjib7BS5DAp8pSIAR-xpNp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971170347801-lvgq2u833fsr9qsolfj0l2e1spog8ghf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971170347801:android:072fdfb99b3233540aa388",
+        "android_client_info": {
+          "package_name": "com.smartersvision.home_services_provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971170347801-n6nm1pdg43ivq9o6ctf16n1mt0nbrkgk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartersvision.home_services_provider",
+            "certificate_hash": "76f8d2c597bfec9c8058fb56076f02e21fb509c9"
+          }
+        },
+        {
+          "client_id": "971170347801-lvgq2u833fsr9qsolfj0l2e1spog8ghf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVxAEceUWMTjib7BS5DAp8pSIAR-xpNp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971170347801-lvgq2u833fsr9qsolfj0l2e1spog8ghf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
